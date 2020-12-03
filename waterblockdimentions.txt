@@ -1,7 +1,0 @@
-50x50x35
-
-Thorlabs part:
-CPVM
-	11.5 height, 71.1 width, 92 length
-	horizontal design possible
-	https://www.thorlabs.com/drawings/1b36d3bc048c4b1a-3B5B58E7-A96A-DD12-67D2262B5AC82358/CPVM-AutoCADPDF.pdf
